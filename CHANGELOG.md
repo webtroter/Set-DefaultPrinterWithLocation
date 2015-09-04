@@ -19,9 +19,8 @@ First full release
 
 ## [0.0] - 2099-12-31
 ### Added
-
 ### Changed
-
 ### Fixed
-
 ### Removed
+### Deprecated
+### Security
